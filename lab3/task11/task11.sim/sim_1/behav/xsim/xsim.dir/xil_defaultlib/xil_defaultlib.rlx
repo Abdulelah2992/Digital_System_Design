@@ -6,6 +6,6 @@ May 24 2019
 /home/it/digital_system/Digital_System_Design/lab3/task1/src/decoder.sv,1731076163,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg_controller.sv,,decoder,,,,,,,,
 /home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg.sv,1731446116,systemVerilog,,,,sev_seg_top,,,,,,,,
 /home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg_controller.sv,1731443137,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg_decoder.sv,,sev_seg_controller,,,,,,,,
-/home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg_decoder.sv,1731504003,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab3/task11/task11.srcs/sim_1/new/sevsegtaestbench.sv,,seven_seg_decoder,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab3/task1/src/sev_seg_decoder.sv,1731566281,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab3/task11/task11.srcs/sim_1/new/sevsegtaestbench.sv,,seven_seg_decoder,,,,,,,,
 /home/it/digital_system/Digital_System_Design/lab3/task11/task11.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
 /home/it/digital_system/Digital_System_Design/lab3/task11/task11.srcs/sim_1/new/sevsegtaestbench.sv,1731501995,systemVerilog,,,,sevsegtaestbench,,,,,,,,

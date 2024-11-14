@@ -2,3 +2,6 @@ Running: xsim.dir/sev_seg_top_behav/xsimk -simmode gui -wdb sev_seg_top_behav.wd
 Design successfully loaded
 Design Loading Memory Usage: 33024 KB (Peak: 33588 KB)
 Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 114760 KB (Peak: 172292 KB)
+Simulation CPU Usage: 30 ms
